@@ -1,0 +1,7 @@
+C:\Users\Rog\source\repos\HW25.03\HW25.03\bin\Debug\HW25.03.exe.config
+C:\Users\Rog\source\repos\HW25.03\HW25.03\bin\Debug\HW25.03.exe
+C:\Users\Rog\source\repos\HW25.03\HW25.03\bin\Debug\HW25.03.pdb
+C:\Users\Rog\source\repos\HW25.03\HW25.03\obj\Debug\HW25.03.csproj.AssemblyReference.cache
+C:\Users\Rog\source\repos\HW25.03\HW25.03\obj\Debug\HW25.03.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW25.03\HW25.03\obj\Debug\HW25.03.exe
+C:\Users\Rog\source\repos\HW25.03\HW25.03\obj\Debug\HW25.03.pdb
